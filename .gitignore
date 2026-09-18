@@ -1,0 +1,27 @@
+# videos (inputs and results)
+*.mp4
+*.MP4
+*.mov
+*.mkv
+*.avi
+*.y4m
+output/
+
+# python environment
+.venv/
+__pycache__/
+*.pyc
+
+# large downloaded tools (setup.ps1 restores them)
+tools/ffmpeg/
+tools/vapoursynth-portable/
+
+# model weights (setup.ps1 downloads/converts them)
+models/*.onnx
+models/*.pth
+models/*.safetensors
+models/cache/
+
+# scratch
+*.log
+*.bsindex
