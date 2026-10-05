@@ -25,3 +25,4 @@ models/cache/
 # scratch
 *.log
 *.bsindex
+tools/Install-Portable-VapourSynth-R80.bat

@@ -119,6 +119,7 @@ To try another model from <https://openmodeldb.info>: drop its `.onnx` into `mod
 
 `powershell -ExecutionPolicy Bypass -File setup.ps1` creates the venv, installs the Python packages,
 downloads portable FFmpeg and the models. Needs Python 3.10+ and a DirectX 12 GPU (AMD, Intel or NVIDIA).
+Dropping a video onto `enhance.bat` before the setup has run offers to run it first.
 
 ## Why these choices
 
