@@ -128,3 +128,13 @@ Dropping a video onto `enhance.bat` before the setup has run offers to run it fi
 - Per-frame models can shimmer on noisy sources, so a light temporal denoise (hqdn3d) runs before the AI.
   Measured flicker in static OSD areas was slightly lower than the untouched source.
 - Output is tagged BT.709 limited range so players and editors show the colors correctly.
+
+## Support
+
+If it made your old DVR look better, you can buy me a coffee:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juricabi)
+
+## License
+
+MIT, see [LICENSE](LICENSE). The AI models are downloaded by `setup.ps1` and keep their own authors' licenses.
