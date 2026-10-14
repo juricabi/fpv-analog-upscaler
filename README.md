@@ -131,7 +131,7 @@ Dropping a video onto `enhance.bat` before the setup has run offers to run it fi
 
 ## Support
 
-If it made your old DVR look better, you can buy me a coffee:
+If you like it, you can buy me a coffee:
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juricabi)
 
